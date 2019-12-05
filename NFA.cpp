@@ -1,6 +1,3 @@
-#include<iostream.h>
-#include<conio.h>
-using namespace std;
 void main()
 {
 	char s[30];
@@ -69,5 +66,5 @@ void main()
 		cout << endl << "Valid";
 	else
 		cout << endl << "Invalid";
-	_getch();
+	
 }
